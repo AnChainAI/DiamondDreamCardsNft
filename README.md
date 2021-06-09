@@ -1,5 +1,5 @@
 # DiamondDream.Cards Nft 
-## Open Source Non-Fungible Token Platform, by AnChain.AI
+## Open Source Non-Fungible Token Platform Demo, by AnChain.AI
 Currently supports : 
 - Ethereum solidity smart contract (This demo)
 - Flow cadence smart contract
