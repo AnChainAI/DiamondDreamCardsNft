@@ -1,5 +1,8 @@
 # DiamondDream.Cards Nft 
 ## Open Source Non-Fungible Token Platform Demo, by AnChain.AI
+
+Note: source code in the process of migrating and will be completed in the week of Jun 11, 2021.
+
 Currently supports : 
 - Ethereum solidity smart contract (This demo)
 - Flow cadence smart contract
@@ -42,7 +45,7 @@ npm run test
 
 
 # Directory
-
+```
 contracts/: Directory for Solidity contracts
 migrations/: Directory for scriptable deployment files
 test/: Directory for test files for testing your application and contracts
@@ -51,6 +54,6 @@ server/: back end
 public/:
 .env: credentials
 truffle.js: Truffle configuration file
-
+```
 
 Developed by AnChain.AI team. 2021
